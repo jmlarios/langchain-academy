@@ -12,9 +12,7 @@ langchain-tavily
 wikipedia
 trustcall
 langgraph-cli[inmem]
-
-python>=3.12
-
+jupyterlab
 aiohttp>=3.13.4
 Pygments>=2.20.0
 cryptography>=46.0.7
